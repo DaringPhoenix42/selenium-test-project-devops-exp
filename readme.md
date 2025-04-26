@@ -1,13 +1,13 @@
-# Selenium Web Automation Project 🚀
+# Selenium Web Automation Project 
 
 This project demonstrates a simple **web automation test** using **Selenium WebDriver** and **Python**.  
 It automatically opens Google, searches for a keyword ("javatpoint"), and then closes the browser.
 
----
+
 
 ## 📂 Project Structure
 
-```text
+```
 selenium-test-project-devops-exp/
 ├── venv/               # Python virtual environment (ignored by Git)
 ├── testbrowser.py      # Selenium test script
